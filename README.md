@@ -1,1 +1,2 @@
 # odin-recipes
+This porject covered our introductory lessons into the HTML language. Some key takeaways include, but are not limited to; formating sentences and paragraphs on our page, linking to difffernt parts of our website, and linking/configuring image files. At first, it was tricky. I especially had truoble with understanding how to properly format the correct syntax in order to access the parent directory for one of my images. Other than that, it was reletivly straight forward. 
